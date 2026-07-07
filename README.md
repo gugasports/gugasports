@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Em produção, transição de carreira, sem cursos concluídos ou projetos. Quero ir aprendendo a base pra poder desenvolver melhor os atributos e projetos.
 <!--
 **gugasports/gugasports** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
